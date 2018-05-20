@@ -1,0 +1,20 @@
+[
+    {
+        "modid": "slowdown",
+        "name": "Slowdown",
+        "description": "Slows down your Minecraft client to account for server lag",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "http://daporkchop.net",
+        "updateUrl": "",
+        "authorList": [
+            "DaPorkchop_"
+        ],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": [
+            ""
+        ]
+    }
+]

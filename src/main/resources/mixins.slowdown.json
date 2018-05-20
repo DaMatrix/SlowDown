@@ -1,0 +1,10 @@
+{
+    "required": true,
+    "compatibilityLevel": "JAVA_8",
+    "package": "net.daporkchop.slowdown.mixin",
+    "refmap": "mixins.slowdown.refmap.json",
+    "mixins": [
+        "network.MixinNetworkManager",
+        "util.MixinTimer"
+    ]
+}
